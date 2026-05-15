@@ -1,0 +1,7 @@
+constants.py
+rainday_package.py
+*.db
+*.txt
+*debug*
+*cpython*
+.vscode
