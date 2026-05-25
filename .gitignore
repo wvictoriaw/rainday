@@ -5,3 +5,4 @@ rainday_package.py
 *debug*
 *cpython*
 .vscode
+*.geojson
